@@ -3,19 +3,21 @@
     <channel>
         <title>Point Translate</title>
         <item>
-            <title>0.11.0</title>
-            <pubDate>Sun, 11 Oct 2026 04:38:34 +0200</pubDate>
-            <sparkle:version>0.11.0</sparkle:version>
-            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+            <title>0.11.1</title>
+            <pubDate>Sun, 11 Oct 2026 14:00:06 +0200</pubDate>
+            <sparkle:version>0.11.1</sparkle:version>
+            <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Updates now arrive inside Point Translate.
+            <description sparkle:format="plain-text"><![CDATA[Point Translate 0.11.1
 
-Use Check for Updates in the menu, or enable automatic checks in Settings. Updates are signed and installed through Sparkle, with an Install and Relaunch prompt.
+Ordinary text selection now leaves your clipboard alone. Select text and press Command + Option + C to translate and copy when you want to.
 
-Install this version once manually if you have 0.10.1 or earlier. Keep Point Translate in Applications, outside iCloud-synced folders.
+Automatic selection copying is off by default, including after upgrading. You can enable it explicitly in Settings. Ordinary photo drags also require that opt-in; the photo selection tool and Option + Shift lens remain available.
+
+Includes the current retro interface and animated introduction, with instructions for deliberate copying. Clipboard undo and protection against overwriting a newer copy remain in place.
 ]]></description>
-            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.11.0/Point-Translate-0.11.0-arm64.dmg" length="1849790" type="application/octet-stream" sparkle:edSignature="KpkbjMEmqoe3mgkGp+hb12qm9RQLGlkgvXLXqjyyB4AtM1vLfyc5a6+AlHkAxL2FCyvgMQXZugIiN6rGVnL7AQ=="/>
+            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.11.1/Point-Translate-0.11.1-arm64.dmg" length="2143512" type="application/octet-stream" sparkle:edSignature="8KoZtuZr3xrqc00pHcFW7S2xpmsjwEVl5vaMPm0zbI8Vhg0Gy+ANPhnaS8rGLPTKRbjIsyXNxbg5jW5ZtTZqBw=="/>
         </item>
     </channel>
 </rss>
