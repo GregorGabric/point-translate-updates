@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Point Translate</title>
+        <item>
+            <title>0.11.0</title>
+            <pubDate>Sun, 11 Oct 2026 04:38:34 +0200</pubDate>
+            <sparkle:version>0.11.0</sparkle:version>
+            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="plain-text"><![CDATA[Updates now arrive inside Point Translate.
+
+Use Check for Updates in the menu, or enable automatic checks in Settings. Updates are signed and installed through Sparkle, with an Install and Relaunch prompt.
+
+Install this version once manually if you have 0.10.1 or earlier. Keep Point Translate in Applications, outside iCloud-synced folders.
+]]></description>
+            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.11.0/Point-Translate-0.11.0-arm64.dmg" length="1849790" type="application/octet-stream" sparkle:edSignature="KpkbjMEmqoe3mgkGp+hb12qm9RQLGlkgvXLXqjyyB4AtM1vLfyc5a6+AlHkAxL2FCyvgMQXZugIiN6rGVnL7AQ=="/>
+        </item>
+    </channel>
+</rss>
