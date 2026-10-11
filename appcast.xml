@@ -3,21 +3,22 @@
     <channel>
         <title>Point Translate</title>
         <item>
-            <title>0.11.2</title>
-            <pubDate>Sun, 11 Oct 2026 14:06:51 +0200</pubDate>
-            <sparkle:version>0.11.2</sparkle:version>
-            <sparkle:shortVersionString>0.11.2</sparkle:shortVersionString>
+            <title>0.12.0</title>
+            <pubDate>Sun, 11 Oct 2026 15:19:26 +0200</pubDate>
+            <sparkle:version>0.12.0</sparkle:version>
+            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Point Translate 0.11.2
+            <description sparkle:format="plain-text"><![CDATA[Point Translate 0.12.0
 
-Fixes the Sparkle installer connection error by removing a sandbox-only installer launcher setting from this non-sandboxed app.
+• Optional floating sticky note gathers your translations. Enable it in Settings or the menu bar.
+• Compact yellow paper grows with your translations, with copy, remove, clear, and copy-all controls.
+• Translations and note position survive quitting and reopening. Drag the tape or blank paper to move it.
+• Always show previews now keeps the preview visible during selection drags and after copying.
 
-Versions 0.11.0 and 0.11.1 need one manual replacement: download the disk image, quit Point Translate, and drag the app into Applications. Future in-app updates use the corrected installer configuration.
-
-Ordinary text selection leaves your clipboard alone. Press Command + Option + C to translate and copy deliberately.
+Apple Silicon · macOS 26.4+. Locally Apple Development signed; not notarized.
 ]]></description>
-            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.11.2/Point-Translate-0.11.2-arm64.dmg" length="2143519" type="application/octet-stream" sparkle:edSignature="SRgPkUGNfY5c5Ft5xL54B1cPExm0Z4IrLkMaGxtwpvXZE+ito10FxH3c8NR/fqZZKUkjXhYE9f0lzBuvtweyCg=="/>
+            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.12.0/Point-Translate-0.12.0-arm64.dmg" length="2236796" type="application/octet-stream" sparkle:edSignature="XbR1rxk3kY0098d5I9tCiYVTJIjxOae8CQ5U/27GxfY97gTaq4CBP7nKKslggeFz2wTJ3GqvI51xiwluNAYGAQ=="/>
         </item>
     </channel>
 </rss>
