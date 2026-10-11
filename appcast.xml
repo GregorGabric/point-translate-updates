@@ -3,22 +3,19 @@
     <channel>
         <title>Point Translate</title>
         <item>
-            <title>0.12.0</title>
-            <pubDate>Sun, 11 Oct 2026 15:19:26 +0200</pubDate>
-            <sparkle:version>0.12.0</sparkle:version>
-            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
+            <title>0.13.0</title>
+            <pubDate>Sun, 11 Oct 2026 20:33:02 +0200</pubDate>
+            <sparkle:version>0.13.0</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Point Translate 0.12.0
+            <description sparkle:format="plain-text"><![CDATA[Point Translate 0.13.0
 
-• Optional floating sticky note gathers your translations. Enable it in Settings or the menu bar.
-• Compact yellow paper grows with your translations, with copy, remove, clear, and copy-all controls.
-• Translations and note position survive quitting and reopening. Drag the tape or blank paper to move it.
-• Always show previews now keeps the preview visible during selection drags and after copying.
-
-Apple Silicon · macOS 26.4+. Locally Apple Development signed; not notarized.
+• The translation card now opens beside the text it translates (above it when there's room), so it no longer covers the selection or the lines you read next.
+• The card is more compact and sizes itself to the translation.
+• Stability and battery improvements.
 ]]></description>
-            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.12.0/Point-Translate-0.12.0-arm64.dmg" length="2236796" type="application/octet-stream" sparkle:edSignature="XbR1rxk3kY0098d5I9tCiYVTJIjxOae8CQ5U/27GxfY97gTaq4CBP7nKKslggeFz2wTJ3GqvI51xiwluNAYGAQ=="/>
+            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.13.0/Point-Translate-0.13.0-arm64.dmg" length="2225181" type="application/octet-stream" sparkle:edSignature="tZHkheODjQtRDVpeJ2nQqBPB6fTXZjiPomBR1nU5GzlRL/1XVZCBG0A4Ub2yL9l7kYsZ4ofVR9nOw57Xn1AkAg=="/>
         </item>
     </channel>
 </rss>
