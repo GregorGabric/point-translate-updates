@@ -1,21 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Point Translate</title>
+        <title>Laytee</title>
         <item>
-            <title>0.13.0</title>
-            <pubDate>Sun, 11 Oct 2026 20:33:02 +0200</pubDate>
-            <sparkle:version>0.13.0</sparkle:version>
-            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.4</sparkle:minimumSystemVersion>
+            <title>0.14.0</title>
+            <pubDate>Mon, 12 Oct 2026 22:08:33 +0200</pubDate>
+            <sparkle:version>0.14.0</sparkle:version>
+            <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Point Translate 0.13.0
+            <description sparkle:format="plain-text"><![CDATA[Laytee 0.14.0
 
-• The translation card now opens beside the text it translates (above it when there's room), so it no longer covers the selection or the lines you read next.
-• The card is more compact and sizes itself to the translation.
-• Stability and battery improvements.
+Point Translate is now Laytee, with a new retro selection-tile app icon.
+
+- Supports Apple Silicon Macs running macOS Sequoia 15 or later.
+- Uses compatible on-device translation sessions on macOS 15.
+- A simpler disk image shows Laytee, a drag arrow, and Applications, without Install.txt.
+- Existing language preferences, saved translations and update identity are retained.
+
+Built and signed locally. Not notarized. The Sequoia translation path passed local integration checks on a newer Mac; an actual macOS 15 installation has not yet been tested.
 ]]></description>
-            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.13.0/Point-Translate-0.13.0-arm64.dmg" length="2225181" type="application/octet-stream" sparkle:edSignature="tZHkheODjQtRDVpeJ2nQqBPB6fTXZjiPomBR1nU5GzlRL/1XVZCBG0A4Ub2yL9l7kYsZ4ofVR9nOw57Xn1AkAg=="/>
+            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.14.0/Laytee-0.14.0-arm64.dmg" length="3889733" type="application/octet-stream" sparkle:edSignature="pRMnV+MQvETomDeL/k24ayZInwhTUK7dipfiMhs+sxcWtnjZB/pRvi0nrRlZtN4uxoVdWrrjEkAlYUTIBTzkBA=="/>
         </item>
     </channel>
 </rss>
