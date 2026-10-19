@@ -3,17 +3,19 @@
     <channel>
         <title>Laytee</title>
         <item>
-            <title>0.17.0</title>
-            <pubDate>Mon, 19 Oct 2026 20:29:23 +0200</pubDate>
-            <sparkle:version>0.17.0</sparkle:version>
-            <sparkle:shortVersionString>0.17.0</sparkle:shortVersionString>
+            <title>0.18.0</title>
+            <pubDate>Mon, 19 Oct 2026 22:11:33 +0200</pubDate>
+            <sparkle:version>0.18.0</sparkle:version>
+            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Laytee 0.17.0
+            <description sparkle:format="plain-text"><![CDATA[Laytee 0.18.0
 
-AI translation (optional): add an OpenAI API key in Settings → AI and Laytee writes translations the way a native copywriter would, instead of word for word. It reads the app, the document name and, if you allow it, the design around your selection, so the copy fits its tone and space. Your key stays in the Keychain. The photo lens stays on this Mac, and if OpenAI can't be reached Laytee copies Apple's translation and tells you.
+A simpler Laytee. The introduction is now three quick steps: pick your languages, allow Accessibility, then try it once by selecting a line, pressing ⌥⌘C and pasting the translation.
+
+⌥⌘C is now the only shortcut, and Laytee only reads text when you press it. Automatic copying of every selection, per-app pausing, and the restore, copy-again and show-last shortcuts have been removed. Hold ⌥⇧ to point at or drag around text in photos, as before. Pasting into Laytee's own text fields with ⌘V now works.
 ]]></description>
-            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.17.0/Laytee-0.17.0-arm64.dmg" length="4004983" type="application/octet-stream" sparkle:edSignature="U8FKJISu9+DoPlBmSusf4H9TxTFN/n9L99qslUAe9CITmVGMv2eZhe/hWFYdbZeOV3vt4TDXNp7VUkFUOzGYBw=="/>
+            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.18.0/Laytee-0.18.0-arm64.dmg" length="3786783" type="application/octet-stream" sparkle:edSignature="HMrpXiUCtINwCKWi0oKuWV2anB6K1/wuPHOMoabZneNMi8LcchWRtjp80gx3m0ZiFRxyy7sbg4w2YQvNHTmsDg=="/>
         </item>
     </channel>
 </rss>
