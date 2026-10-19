@@ -3,19 +3,17 @@
     <channel>
         <title>Laytee</title>
         <item>
-            <title>0.18.0</title>
-            <pubDate>Mon, 19 Oct 2026 22:11:33 +0200</pubDate>
-            <sparkle:version>0.18.0</sparkle:version>
-            <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+            <title>0.18.1</title>
+            <pubDate>Mon, 19 Oct 2026 22:25:49 +0200</pubDate>
+            <sparkle:version>0.18.1</sparkle:version>
+            <sparkle:shortVersionString>0.18.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Laytee 0.18.0
+            <description sparkle:format="plain-text"><![CDATA[Laytee 0.18.1
 
-A simpler Laytee. The introduction is now three quick steps: pick your languages, allow Accessibility, then try it once by selecting a line, pressing ⌥⌘C and pasting the translation.
-
-⌥⌘C is now the only shortcut, and Laytee only reads text when you press it. Automatic copying of every selection, per-app pausing, and the restore, copy-again and show-last shortcuts have been removed. Hold ⌥⇧ to point at or drag around text in photos, as before. Pasting into Laytee's own text fields with ⌘V now works.
+With AI translation on, the ⌥⇧ photo lens now uses it too, with the same feel for the design as ⌥⌘C. Pointing translates once the pointer rests for a moment; dragging a box translates right away. AI translations are also a little faster.
 ]]></description>
-            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.18.0/Laytee-0.18.0-arm64.dmg" length="3786783" type="application/octet-stream" sparkle:edSignature="HMrpXiUCtINwCKWi0oKuWV2anB6K1/wuPHOMoabZneNMi8LcchWRtjp80gx3m0ZiFRxyy7sbg4w2YQvNHTmsDg=="/>
+            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.18.1/Laytee-0.18.1-arm64.dmg" length="3792980" type="application/octet-stream" sparkle:edSignature="RjoDz/7DGEQuKFbv9AUDFApfr2axe6QikCZZ/fyk4SIvNrGKMi+9shoEOklV7tygXxiLiv5c1+6L1KOYlKEvCQ=="/>
         </item>
     </channel>
 </rss>
