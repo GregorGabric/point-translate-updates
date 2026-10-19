@@ -3,24 +3,26 @@
     <channel>
         <title>Laytee</title>
         <item>
-            <title>0.15.0</title>
-            <pubDate>Mon, 19 Oct 2026 19:47:46 +0200</pubDate>
-            <sparkle:version>0.15.0</sparkle:version>
-            <sparkle:shortVersionString>0.15.0</sparkle:shortVersionString>
+            <title>0.16.0</title>
+            <pubDate>Mon, 19 Oct 2026 19:58:33 +0200</pubDate>
+            <sparkle:version>0.16.0</sparkle:version>
+            <sparkle:shortVersionString>0.16.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description sparkle:format="plain-text"><![CDATA[Laytee 0.15.0
+            <description sparkle:format="plain-text"><![CDATA[Laytee 0.16.0
 
-Translation now works both ways.
+Laytee is easier to set up and tells you what's going on.
 
-- Laytee detects which language of your pair the selected text is in. With French → English selected, French text becomes English and English text becomes French.
-- The translation card and sticky note show the direction actually used.
-- Photo text recognition reads both languages of the pair.
-- Ambiguous text keeps your chosen direction. If only one direction is installed, everything translates that way.
+- When a shortcut can't do anything (nothing selected, a paused app, no translation yet), a short hint beside the pointer explains why.
+- If Accessibility or languages are missing, ⌥⌘C opens Laytee and shows the next step.
+- The Laytee window shows what to do next, and its main button always does that step.
+- Settings now sit on a visible Options tab, with plainer labels and explanations for each permission.
+- Every shortcut is listed on the General tab, including ⌥⌘C.
+- The menu bar shows your language pair and uses clearer action names. Settings… has ⌘,.
 
 Built and signed locally. Not notarized.
 ]]></description>
-            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.15.0/Laytee-0.15.0-arm64.dmg" length="3900629" type="application/octet-stream" sparkle:edSignature="xOLMoTmwMLPsiT6otGhjGDZ00cUy1gHa9yzfpMzkJVFnJzU4+7InMQ0QGStCFAaBPmtirKi9FBoqkXomRKINDA=="/>
+            <enclosure url="https://github.com/GregorGabric/point-translate-updates/releases/download/v0.16.0/Laytee-0.16.0-arm64.dmg" length="3919881" type="application/octet-stream" sparkle:edSignature="YyQICTMpCz9ZVfj5KEzGpEenCnOl2TICQYR0E9uYkXIysuSEvG2NDmJI0j0ogde6mCnq7qNX3TmgKO2luXZ5Ag=="/>
         </item>
     </channel>
 </rss>
